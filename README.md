@@ -1,8 +1,9 @@
-# Windows_drive_sorter
+# Drive_Segregator
 
 Usage :
 
-Sorts down all the files and folders present inside the directory in no time(even the while disk drive could be sorted) .
+Segregates all the files and folders present inside the directory based on the file format.
+(Even whole disk drives could be sorted in no time) .
 
 Working :
 1. Analyses the tree structure of directory 
@@ -12,3 +13,5 @@ Working :
 5. Moves all the files into folders according to the file format
 
 Technology used : NodeJS, Javascript
+
+Caution : Never use this application on C Drive.
